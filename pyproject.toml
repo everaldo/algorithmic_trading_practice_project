@@ -57,4 +57,4 @@ index-strategy = "first-index"
 
 [tool.uv.sources]
 # Use local wheel for mercado_bitcoin_python
-mercado-bitcoin-python = { path = "mercado_bitcoin_python-0.2.7-py3-none-any.whl" }
+mercado-bitcoin-python = { path = "mercado_bitcoin_python-0.2.8-py3-none-any.whl" }

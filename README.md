@@ -50,7 +50,7 @@ intelligent_trading_system/
 ├── telegram_service.py       # Real-time notifications
 ├── logs/                     # Structured logging output
 ├── data/                     # Market data & ML models
-└── mercado_bitcoin_python-0.2.7-py3-none-any.whl
+└── mercado_bitcoin_python-0.2.8-py3-none-any.whl
 ```
 
 ## 🔧 Installation & Setup

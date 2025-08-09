@@ -1,4 +1,4 @@
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/everaldo/algorithmic_trading_practice_project/blob/main/algorithmic_trading_report.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/everaldo/algorithmic_trading_practice_project/blob/master/algorithmic_trading_report.ipynb)
 
 
 # Intelligent Trading System

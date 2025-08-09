@@ -1,3 +1,6 @@
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/everaldo/algorithmic_trading_practice_project/blob/main/algorithmic_trading_report.ipynb)
+
+
 # Intelligent Trading System
 
 **Author:** Everaldo Gomes  
@@ -61,8 +64,8 @@ intelligent_trading_system/
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/everaldo/intelligent-trading-system
-cd intelligent_trading_system
+git clone https://github.com/everaldo/algorithmic_trading_practice_project
+cd algorithmic_trading_practice_project
 
 # Install dependencies
 uv sync
@@ -159,7 +162,7 @@ Complete project analysis available in Jupyter Notebook:
 
 **Everaldo Gomes**  
 Email: training@tpq.io  
-Project Repository: [intelligent-trading-system](https://github.com/everaldo/intelligent-trading-system)
+Project Repository: [intelligent-trading-system](https://github.com/everaldo/algorithmic_trading_practice_project)
 
 ---
 
